@@ -42,9 +42,9 @@ Key Visualizations:
 ### Screenshots:
 | **Visualization**      | **Description**                |
 |-------------------------|--------------------------------|
-| ![Bar Chart](tableau/screenshots/bar_chart.png) | Total funding by industry. |
-| ![Pie Chart](tableau/screenshots/pie_chart.png) | Company distribution by country. |
+| ![Bar Chart](tableau/screenshots/bar_chart.png) | Total 10 Companies funding |
+| ![Pie Chart](tableau/screenshots/pie_chart.png) | Industry wise funding |
 | ![Table](tableau/screenshots/summary_table.png) | Summary of funding and growth. |
 
-Download the full Tableau workbook: [TopCompanies.twbx](tableau/TopCompanies.twbx)
+
 
